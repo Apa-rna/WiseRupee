@@ -1,0 +1,1 @@
+This project uses HTML, CSS, Material-ui, JavaScript and React to create an easy and efficient expense and income tracking system that is deployed on Firebase. Firebase allows for secure and scalable hosting with real-time updates, adding an extra layer of reliability to the system.
